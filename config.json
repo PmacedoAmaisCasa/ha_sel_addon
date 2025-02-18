@@ -1,0 +1,13 @@
+{
+  "name": "Selenium Firefox",
+  "version": "1.0.0",
+  "slug": "selenium_firefox",
+  "description": "Selenium with Firefox for Home Assistant",
+  "startup": "services",
+  "boot": "auto",
+  "ports": {
+    "4444/tcp": 4444
+  },
+  "options": {},
+  "schema": {}
+}
