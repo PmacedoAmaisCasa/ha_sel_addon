@@ -1,7 +1,7 @@
 {
   "name": "Selenium Firefox",
-  "version": "1.0.0",
   "slug": "selenium_firefox",
+  "version": "1.0.0",
   "description": "Selenium with Firefox for Home Assistant",
   "startup": "services",
   "boot": "auto",
